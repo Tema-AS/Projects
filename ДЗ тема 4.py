@@ -12,6 +12,7 @@ directories = {
 }
 
 
+
 # Функция для поиска владельца документа по номеру
 def find_document_owner(doc_number):
     for doc in documents:
